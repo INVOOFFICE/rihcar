@@ -1,0 +1,49 @@
+<nav id="navbar" class="fixed top-0 left-0 right-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-between h-20">
+
+            <!-- Logo -->
+            <a href="#" class="flex items-center gap-3 group">
+                <div class="w-9 h-9 rounded-full gold-gradient flex items-center justify-center shadow-lg" style="box-shadow:0 4px 15px rgba(212,175,55,0.3)">
+                    <i class="fas fa-car text-black text-sm"></i>
+                </div>
+                <span class="font-serif text-2xl font-bold tracking-wide">
+                    RIH <span class="gold-text">Cars</span>
+                </span>
+            </a>
+
+            <!-- Desktop Nav -->
+            <div class="hidden md:flex items-center gap-8">
+                <a href="#vehicules" class="text-gray-400 hover:text-white transition-colors text-sm font-medium tracking-wide uppercase">Véhicules</a>
+                <a href="#locations" class="text-gray-400 hover:text-white transition-colors text-sm font-medium tracking-wide uppercase">Destinations</a>
+                <a href="#reservation" class="text-gray-400 hover:text-white transition-colors text-sm font-medium tracking-wide uppercase">Réservation</a>
+                <a href="#contact" class="text-gray-400 hover:text-white transition-colors text-sm font-medium tracking-wide uppercase">Contact</a>
+                <a href="#reservation" class="btn-gold px-6 py-2.5 rounded-full text-sm tracking-wide flex items-center gap-2">
+                    <i class="fab fa-whatsapp"></i> Réserver
+                </a>
+            </div>
+
+            <!-- Mobile toggle -->
+            <button id="mobile-menu-btn" class="md:hidden w-10 h-10 flex flex-col items-center justify-center gap-1.5" aria-label="Menu">
+                <span class="hamburger-line w-6 h-0.5 bg-white transition-all duration-300 origin-center"></span>
+                <span class="hamburger-line w-5 h-0.5 bg-white transition-all duration-300"></span>
+                <span class="hamburger-line w-6 h-0.5 bg-white transition-all duration-300 origin-center"></span>
+            </button>
+        </div>
+    </div>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="md:hidden glass border-t border-gold-900/20">
+        <div class="px-6 py-6 space-y-1">
+            <a href="#vehicules" class="block py-3 text-gray-300 hover:text-gold-400 transition-colors text-lg border-b border-white/5">Véhicules</a>
+            <a href="#locations" class="block py-3 text-gray-300 hover:text-gold-400 transition-colors text-lg border-b border-white/5">Destinations</a>
+            <a href="#reservation" class="block py-3 text-gray-300 hover:text-gold-400 transition-colors text-lg border-b border-white/5">Réservation</a>
+            <a href="#contact" class="block py-3 text-gray-300 hover:text-gold-400 transition-colors text-lg">Contact</a>
+            <a href="#reservation" class="block mt-4 btn-gold text-black text-center px-6 py-3.5 rounded-full font-semibold">
+                <i class="fab fa-whatsapp mr-2"></i>Réserver Maintenant
+            </a>
+        </div>
+    </div>
+</nav>
+
+<!-- ══════════════════ HERO ══════════════════ -->

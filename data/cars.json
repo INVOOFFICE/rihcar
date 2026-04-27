@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Dacia Duster",
+    "subtitle": "SUV 4x4 - Parfait pour le desert",
+    "capacity": 5,
+    "luggage": 3,
+    "transmission": "Manuelle",
+    "pricePerDay": 350,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=600&q=80",
+    "overlayIcon": "fas fa-mountain",
+    "overlayText": "Ideal desert & pistes",
+    "badge": {
+      "text": "Populaire",
+      "icon": "fas fa-star",
+      "style": "background:rgba(212,175,55,0.15);border-color:rgba(212,175,55,0.4)"
+    }
+  },
+  {
+    "name": "Renault Clio",
+    "subtitle": "Citadine - Economique et agile",
+    "capacity": 5,
+    "luggage": 2,
+    "transmission": "Manuelle",
+    "pricePerDay": 250,
+    "imageUrl": "https://images.unsplash.com/photo-1550355291-bbee04a92027?w=600&q=80",
+    "overlayIcon": "fas fa-city",
+    "overlayText": "Economique & agile en ville"
+  },
+  {
+    "name": "Toyota Land Cruiser",
+    "subtitle": "4x4 - Le roi du Sahara et des dunes",
+    "capacity": 7,
+    "luggage": 4,
+    "transmission": "Auto",
+    "pricePerDay": 800,
+    "imageUrl": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=600&q=80",
+    "overlayIcon": "fas fa-crown",
+    "overlayText": "Le roi du Sahara",
+    "badge": {
+      "text": "4x4",
+      "style": "background:rgba(212,175,55,0.9);border-radius:100px;padding:3px 12px;font-size:0.65rem;color:black;font-weight:700;letter-spacing:0.08em;text-transform:uppercase"
+    }
+  },
+  {
+    "name": "Hyundai Tucson",
+    "subtitle": "SUV - Confort premium",
+    "capacity": 5,
+    "luggage": 3,
+    "transmission": "Auto",
+    "pricePerDay": 500,
+    "imageUrl": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=600&q=80",
+    "overlayIcon": "fas fa-road",
+    "overlayText": "Confort pour longs trajets"
+  },
+  {
+    "name": "Fiat Panda",
+    "subtitle": "Citadine - Ideale pour la ville",
+    "capacity": 4,
+    "luggage": 1,
+    "transmission": "Manuelle",
+    "pricePerDay": 200,
+    "imageUrl": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=600&q=80",
+    "overlayIcon": "fas fa-gas-pump",
+    "overlayText": "Le plus economique",
+    "badge": {
+      "text": "Eco",
+      "icon": "fas fa-leaf",
+      "style": "background:rgba(34,197,94,0.1);border-color:rgba(34,197,94,0.3);color:#4ade80"
+    }
+  },
+  {
+    "name": "Mercedes Vito",
+    "subtitle": "Minibus - Groupes & familles",
+    "capacity": 9,
+    "luggage": 6,
+    "transmission": "Auto",
+    "pricePerDay": 900,
+    "imageUrl": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=600&q=80",
+    "overlayIcon": "fas fa-users",
+    "overlayText": "Pour groupes & familles",
+    "badge": {
+      "text": "Premium",
+      "style": "background:linear-gradient(135deg,#d4af37,#c5a028);border-radius:100px;padding:3px 12px;font-size:0.65rem;color:black;font-weight:700;letter-spacing:0.08em;text-transform:uppercase"
+    }
+  }
+]
