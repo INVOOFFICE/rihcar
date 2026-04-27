@@ -6,7 +6,7 @@
     "luggage": 3,
     "transmission": "Manuelle",
     "pricePerDay": 350,
-    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=600&q=80",
+    "imageUrl": "https://cdn.topgear.com/sites/default/files/cars-road-test/2022/06/dacia-duster-mk2-desert-lead.jpg",
     "overlayIcon": "fas fa-mountain",
     "overlayText": "Ideal desert & pistes",
     "badge": {
@@ -22,7 +22,7 @@
     "luggage": 2,
     "transmission": "Manuelle",
     "pricePerDay": 250,
-    "imageUrl": "https://images.unsplash.com/photo-1550355291-bbee04a92027?w=600&q=80",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Renault_Clio_V_%28facelift%2C_white%29%2C_front_8.26.22.jpg/1280px-Renault_Clio_V_%28facelift%2C_white%29%2C_front_8.26.22.jpg",
     "overlayIcon": "fas fa-city",
     "overlayText": "Economique & agile en ville"
   },
@@ -33,7 +33,7 @@
     "luggage": 4,
     "transmission": "Auto",
     "pricePerDay": 800,
-    "imageUrl": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=600&q=80",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Toyota_Land_Cruiser_%28J300%29_IMG_6630.jpg/1280px-Toyota_Land_Cruiser_%28J300%29_IMG_6630.jpg",
     "overlayIcon": "fas fa-crown",
     "overlayText": "Le roi du Sahara",
     "badge": {
@@ -48,7 +48,7 @@
     "luggage": 3,
     "transmission": "Auto",
     "pricePerDay": 500,
-    "imageUrl": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=600&q=80",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/2022_Hyundai_Tucson_Hybrid_%28NX4%29_1.6_T-GDi_AWD_Premium_Wagon_%282022-05-04%29_01.jpg/1280px-2022_Hyundai_Tucson_Hybrid_%28NX4%29_1.6_T-GDi_AWD_Premium_Wagon_%282022-05-04%29_01.jpg",
     "overlayIcon": "fas fa-road",
     "overlayText": "Confort pour longs trajets"
   },
@@ -59,7 +59,7 @@
     "luggage": 1,
     "transmission": "Manuelle",
     "pricePerDay": 200,
-    "imageUrl": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=600&q=80",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Fiat_Panda_III_%28319%29_1.2_8V_Easy_%28facelift%2C_2016%29%2C_front_8.12.18.jpg/1280px-Fiat_Panda_III_%28319%29_1.2_8V_Easy_%28facelift%2C_2016%29%2C_front_8.12.18.jpg",
     "overlayIcon": "fas fa-gas-pump",
     "overlayText": "Le plus economique",
     "badge": {
@@ -75,7 +75,7 @@
     "luggage": 6,
     "transmission": "Auto",
     "pricePerDay": 900,
-    "imageUrl": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=600&q=80",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Mercedes-Benz_Vito_Tourer_%28W447%29_IMG_3843.jpg/1280px-Mercedes-Benz_Vito_Tourer_%28W447%29_IMG_3843.jpg",
     "overlayIcon": "fas fa-users",
     "overlayText": "Pour groupes & familles",
     "badge": {
