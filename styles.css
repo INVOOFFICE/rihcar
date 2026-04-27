@@ -268,8 +268,22 @@
         .fade-right.visible { opacity: 1; transform: translateX(0); }
 
         /* ── MOBILE MENU ── */
-        #mobile-menu { transform: translateY(-10px); opacity: 0; transition: all 0.3s ease; pointer-events: none; }
-        #mobile-menu.open { transform: translateY(0); opacity: 1; pointer-events: all; }
+        #mobile-menu {
+            position: fixed;
+            top: 64px;
+            left: 0;
+            right: 0;
+            z-index: 999;
+            transform: translateY(-10px);
+            opacity: 0;
+            transition: all 0.3s ease;
+            pointer-events: none;
+        }
+        #mobile-menu.open {
+            transform: translateY(0);
+            opacity: 1;
+            pointer-events: all;
+        }
 
         /* ── FLOATING WA ── */
         .floating-wa { animation: float 4s ease-in-out infinite; }
